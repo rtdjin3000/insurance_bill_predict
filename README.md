@@ -1,5 +1,7 @@
 # GCP - Deploy Machine Learning Pipeline on Google Kubernetes Engine
 #### Predict insurance bill payment tool(Regression Problem)
+![image](https://github.com/rtdjin3000/insurance_bill_predict/assets/42611408/29364f8d-d23b-4a44-8104-23d4d4c5489f)
+
 
 ### Software & Tools Reqs
 1. [Github Account](https://github.com)
@@ -22,5 +24,3 @@ Git Push
 git push -u origin main
 
 Credits: https://github.com/pycaret
-
-![image](https://github.com/rtdjin3000/insurance_bill_predict/assets/42611408/87c2aa68-fd5f-49e6-a069-c18c9d920ac9)
