@@ -23,4 +23,4 @@ git push -u origin main
 
 Credits: https://github.com/pycaret
 
-![Alt text](image.png)
+![image](https://github.com/rtdjin3000/insurance_bill_predict/assets/42611408/87c2aa68-fd5f-49e6-a069-c18c9d920ac9)
